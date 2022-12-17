@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextWrap-Website/static/css/main.83df468a.css",
+    "main.js": "/TextWrap-Website/static/js/main.5575b746.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextWrap-Website/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextWrap-Website/index.html",
+    "main.83df468a.css.map": "/TextWrap-Website/static/css/main.83df468a.css.map",
+    "main.5575b746.js.map": "/TextWrap-Website/static/js/main.5575b746.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextWrap-Website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83df468a.css",
+    "static/js/main.5575b746.js"
+  ]
+}
